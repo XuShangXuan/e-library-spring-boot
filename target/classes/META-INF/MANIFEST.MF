@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: e-library-spring-boot
+Implementation-Version: 0.0.1
+Built-By: Joe
+Implementation-Vendor-Id: com.esunbank
+Build-Jdk: 1.8.0_391
+Implementation-URL: https://spring.io/projects/spring-boot/e-library-s
+ pring-boot
+Created-By: Maven Integration for Eclipse
+
